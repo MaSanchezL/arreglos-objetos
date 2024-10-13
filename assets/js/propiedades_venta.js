@@ -45,7 +45,7 @@ const propiedades_venta = [
     },
   },
   {
-    imagen: "../../assets/img/moderna.webp",
+    imagen: "https://raw.githubusercontent.com/MaSanchezL/arreglos-objetos/refs/heads/main/assets/img/moderna.webp",
     titulo: "Casa moderna con vista al lago",
     descripcion:
       "Esta casa moderna ofrece vistas al lago y amplios espacios interiores.",
@@ -59,7 +59,7 @@ const propiedades_venta = [
     },
   },
   {
-    imagen: "../../assets/img/mansion.webp",
+    imagen: "https://raw.githubusercontent.com/MaSanchezL/arreglos-objetos/refs/heads/main/assets/img/mansion.webp",
     titulo: "Mansión colonial en el campo",
     descripcion:
       "Esta mansión colonial está ubicada en un entorno rural tranquilo con amplios jardines.",
@@ -73,7 +73,7 @@ const propiedades_venta = [
     },
   },
   {
-    imagen: "../../assets/img/rustica.webp",
+    imagen: "https://raw.githubusercontent.com/MaSanchezL/arreglos-objetos/refs/heads/main/assets/img/rustica.webp",
     titulo: "Cabaña rústica en el bosque",
     descripcion:
       "Una acogedora cabaña rústica rodeada de naturaleza en un hermoso bosque.",
