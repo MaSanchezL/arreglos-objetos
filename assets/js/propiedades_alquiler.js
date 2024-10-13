@@ -76,7 +76,7 @@ const propiedades_alquiler = [
   },
   {
     imagen:
-      "../img/loft.jpg",
+      "../../assets/img/loft.jpg",
     titulo: "Loft industrial en el centro de la ciudad",
     descripcion:
       "Un elegante loft de estilo industrial, ideal para quienes buscan un ambiente moderno en el centro.",
